@@ -66,7 +66,8 @@ Les performances du modèle et l'analyse détaillée sont disponibles dans le **
 
 ## 🛠️ Technologies
 
-- Python 3, Pandas, NumPy, scikit-learn
+- Python 3, Jupyter Notebook
+- Pandas, NumPy, scikit-learn
 - TensorFlow / Keras (LSTM, embeddings), Hugging Face Transformers
 - NLTK, Gensim (Word2Vec), langdetect
 - Streamlit, ngrok
